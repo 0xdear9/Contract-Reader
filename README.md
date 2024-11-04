@@ -6,5 +6,6 @@ Contract-Reader is a GitHub repository that provides a program to read and analy
 Features
 Backdoor Detection: The Contract-Reader tool can detect and alert users to potential backdoors in the smart contract code, such as unauthorized access or manipulation points.
 Risk Assessment: The tool analyzes the contract code to identify potential vulnerabilities and security risks, enabling developers to proactively address them before deployment.
+
 Code Review: Contract-Reader allows users to review the contract code, highlighting important sections and providing context to understand the contract's functionality and potential issues.
 Compatibility: The tool supports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
