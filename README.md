@@ -13,3 +13,47 @@ Risk Assessment: The tool analyzes the contract code to identify potential vulne
 Code Review: Contract-Reader allows users to review the contract code, highlighting important sections and providing context to understand the contract's functionality and potential issues.
 
 Compatibility: The tool supports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
+
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+    String name = "John";
+    int age = 30;
+    System.out.println(name);
+    System.out.println(age);
+  }
+}
+
+#include <iostream>
+using namespace std;
+int main() {
+  cout << "Hello World" << endl;
+  string name = "John";
+  int age = 30;
+  cout << name << endl;
+  cout << age << endl;
+  return 0;
+}
+
+using System;
+class Main {
+  static void Main(string[] args) {
+    Console.WriteLine("Hello World");
+    string name = "John";
+    int age = 30;
+    Console.WriteLine(name);
+    Console.WriteLine(age);
+  }
+}
