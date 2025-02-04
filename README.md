@@ -1,4 +1,4 @@
- RAW RAW          Contract-Reader                                      :                             A Smart Contract                       Analysis Tool      -  
+000 RAW RAW          Contract-Reader                                      :                             A Smart Contract                       Analysis Tool      -  
  
 .Introduction 
 
