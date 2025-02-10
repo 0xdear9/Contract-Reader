@@ -1,4 +1,4 @@
-0000009000009000009000000090000000 RAW RAW          Contract-Reader                                        :                             A Smart Contract                       Analysis Tool      -  
+RAW RAW          Contract-Reader                                        :                             A Smart Contract                       Analysis Tool      -  
  
 .Introduction 
 
