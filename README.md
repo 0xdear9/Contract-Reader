@@ -1,4 +1,4 @@
-Q!RAW RAW                 Contract-Reader           :       A Smart Contract Reader              Analysis Tool      -                    
+Q!RAW RAW              Contract-Reader           :       A Smart Contract Reader              Analysis Tool      -                    
  
 .Introduction 
 
