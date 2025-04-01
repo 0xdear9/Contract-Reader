@@ -1,5 +1,5 @@
  Contract-Reader       
- :        A Smart Contract Reader          Analysis Tool     -                   
+ :       A Smart Contract Reader          Analysis Tool     -                   
      
 Introduction 
 
