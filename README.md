@@ -1,6 +1,7 @@
  Contract-Reader       
  :       A Smart Contract Reader          Analysis Tool     -                   
     Contract-Reader       
+    
  :       A Smart Contract Reader          Analysis Tool     -                   
        
 Introduction 
