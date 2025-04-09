@@ -3,8 +3,6 @@ A Smart Contract Reader
 Introduction 
 
 
-
-
 Contract-Reader is a GitHub repository that provides a program to read and analyze smart contracts on EVM (Ethereum Virtual Machine) chains, identifying backdoors and potential harms to its users. 
 This tool aims to help developers and security auditors ensure the security and integrity of their smart contracts.
 
