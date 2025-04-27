@@ -23,7 +23,25 @@ name = "John"
 age = 30
 print(name)
 print(age)
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
 
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+    String name = "John";
+    int age = 30;
+    System.out.println(name);
+    System.out.println(age);
+  }
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
