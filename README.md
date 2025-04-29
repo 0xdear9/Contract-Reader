@@ -2,7 +2,6 @@
 
 Introduction 
 
-
 Contract-Reader is a GitHub repository that provides a program to read and analyze smart contracts on EVM (Ethereum Virtual Machine) chains, identifying backdoors and potential harms to its users. 
 This tool aims to help developers and security auditors ensure the security and integrity of their smart contracts.
 
@@ -34,7 +33,26 @@ name = "John"
 age = 30
 print(name)
 print(age)
-
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
@@ -52,7 +70,64 @@ public class Main {
     System.out.println(age);
   }
 }
-
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
+console.log("Hello World");
+let name = "John";
+let age = 30;
+console.log(name);
+console.log(age);
+print("Hello World")
+name = "John"
+age = 30
+print(name)
+print(age)
 #include <iostream>
 using namespace std;
 int main() {
