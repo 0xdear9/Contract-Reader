@@ -14,12 +14,6 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 
 Compatibility: The tool supports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
 
-console.log(age);
-print("Hello World")
-name = "John"
-age = 30
-print(name)
-print(age)
 console.log("Hello World");
 let age = 30;
 console.log(name);
