@@ -17,7 +17,6 @@ print(name)
 print(age)
 public class Main {
 
-
 age = 30
 print(name)
 print(age)
