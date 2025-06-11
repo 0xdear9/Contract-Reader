@@ -16,7 +16,6 @@ Compatibility: The tool supports popular EVM chains, including Ethereum, Binance
 print(name)
 print(age)
 public class Main {
-
 age = 30
 print(name)
 print(age)
