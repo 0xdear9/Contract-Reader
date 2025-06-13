@@ -19,6 +19,7 @@ public class Main {
 age = 30
 print(name)
 print(age)
+
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
