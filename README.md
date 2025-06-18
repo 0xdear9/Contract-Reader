@@ -11,7 +11,7 @@ Risk Assessment: The tool analyzes the contract code to identify potential vulne
 
 Code Review: Contract-Reader allows users to review the contract code, highlighting important sections and providing context to understand the contract's functionality and potential issues.
 \
-Compatibility: The tool supports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
+Compatibility: The toolsupports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
 
 print(name)
 print(age)
