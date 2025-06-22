@@ -13,7 +13,6 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 \
 Compatibility: The toolsupports popular EVM chains, including Ethereum, Binance Smart Chain (BSC), and Polygon (MATIC).
 
-
 print(name)
 print(age)
 public class Main {
