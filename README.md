@@ -17,10 +17,7 @@ print(age)
 public class Main {
   public stat
 age = 30
-print(name)
-
-
-
+print(name
 print(age)
 public class Main {
   public static void main(String[] args) {
