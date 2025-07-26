@@ -14,8 +14,7 @@ print(nam
 print(name)
 tic void main(String[] args) {
     System.out.println("Hello World");
-    String name = "John";class Main {
-print(age)
+ 
 
   public s
     String name = "John"; World");
