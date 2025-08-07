@@ -17,8 +17,7 @@ public class Main {
     System.out.println("Hello World");
     String name = "John";
     int age = 30;
-    System.out.println(name);
-    System.out.println(age);
+ 
   }
 }
 console.log("Hello World");
