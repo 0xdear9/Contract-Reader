@@ -13,10 +13,7 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 print(nam    String name = "John";
     int age = 30;
  
-  }
-}
-console.log("Hello W "John";
-    int age = 30;
+
  
   }
 }
