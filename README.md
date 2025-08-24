@@ -14,10 +14,6 @@ print(nam    String name = "John";
     int age = 30;
  
 
- 
-  }////.,
-console.log("Hello W
-d");
     String name = "John";
     int age = 30;
  
