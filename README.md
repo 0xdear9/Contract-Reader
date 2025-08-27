@@ -12,11 +12,7 @@ Risk Assessment: The tool analyzes the contract code to identify potential vulne
 Code Review: Contract-Reader allows users to review the contract code, highlighting important sections and providing context to understand the contract's functionality and potential issues
 print(nam    String name = "John";
     int age = 30;
- 
 
-    String name = "John";
-    int age = 30;
- 
   }
 }
 console.log("Hello World");
