@@ -14,10 +14,7 @@ print(nam    String name = "John";
     int age = 30;
 
 
-
-name = "John"
-age = 30
-print(name)
+\
 print(age)
 console.log("Hello World");
 let name = "John";
