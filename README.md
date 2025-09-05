@@ -13,8 +13,6 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 print(nam    String name = "John";
     int age = 30;
 
-llo World");
-let name = "John";
 let age = 30;
 console.log(name);
 console.log(age);
