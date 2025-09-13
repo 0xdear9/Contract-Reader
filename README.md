@@ -15,9 +15,6 @@ print(nam    String name = "John";e = 30;
 print(name)
 print(age)console.log("Hello World");
 
-console.log(age);
-print("Hello World")
-name = "John"
 age = 30
 print(name)
 print(age)
