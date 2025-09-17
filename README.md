@@ -34,10 +34,7 @@ let name = "John";
 let age = 30;
 console.log(name);
 console.log(age);
-print("Hello World")
-name = "John"
-age = 30
-print(name)
+
 print(age)
 #include <iostream>
 using namespace std;
