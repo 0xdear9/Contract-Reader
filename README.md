@@ -14,9 +14,7 @@ print(nam    String name = "John";e = 30;
 
 print(name)
 
-console.log(name);
-con
-name = "John"
+
 console.log("Hello World");
 let name = "John";
 let age = 30;
