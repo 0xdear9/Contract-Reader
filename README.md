@@ -17,9 +17,6 @@ print(name)
 
 
 
-console.log(name);
-console.log(age);
-
 print(age)
 #include <iostream>
 using namespace std;
