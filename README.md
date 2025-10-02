@@ -16,8 +16,6 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 
 
 print(age)
-#include <iostream>
-using namespace std;
 int main() {
   cout << "Hello World" << endl;
   string name = "John";
