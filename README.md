@@ -13,9 +13,6 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 
 
 
-
-  cout << name << endl;
-  cout << age << endl;
   return 0;
 }
 
