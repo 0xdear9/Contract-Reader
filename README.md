@@ -13,11 +13,7 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
 
 
 
-  return 0;
-}
 
-using System;
-class Main {
   static void Main(string[] args) {
     Console.WriteLine("Hello World");
     string name = "John";
