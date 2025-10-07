@@ -20,5 +20,3 @@ Code Review: Contract-Reader allows users to review the contract code, highlight
     int age = 30;
     Console.WriteLine(name);
     Console.WriteLine(age);
-  }
-}
