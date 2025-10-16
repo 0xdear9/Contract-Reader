@@ -10,7 +10,7 @@ Backdoor Detection: The Contract-Reader tool can detect and alert users to poten
 Risk Assessment: The tool analyzes the contract code to identify potential vulnerabilities and security risks, enabling developers to proactively address them before deployment.
 
 Code Review: Contract-Reader allows users to review the contract code, highlighting important sections and providing context to understand the contract's functionality and potential issues
-
+.
 
 
     Console.WriteLine("Hello World");
