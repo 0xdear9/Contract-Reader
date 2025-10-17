@@ -1,4 +1,4 @@
-Smart Contract Reader1
+Smart Contract Reader
 
 Introduction
 
